@@ -1,0 +1,2 @@
+# kay-t-botu
+kayıtbotupublicsunucu
